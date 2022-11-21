@@ -8,7 +8,7 @@ const renderCard = data => {
     roleSpecificData = `Office Number: ${data.officeNumber}`
   } else if (data.role === "Engineer") {
     icon = `<i class="bi bi-eyeglasses"></i>`
-    roleSpecificData = `<a target="_blank" href="https://github.com/${data.github}">github.com/${data.github}</a>`
+    roleSpecificData = `Github: <a target="_blank" href="https://github.com/${data.github}">github.com/${data.github}</a>`
   } else if (data.role === "Intern") {
     icon = `<i class="bi bi-mortarboard"></i>`
     roleSpecificData = `School: ${data.school}`
