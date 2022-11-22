@@ -16,6 +16,6 @@ describe("Engineer", () => {
   it("should get the github username with the getGithub() method", () => {
     const username = "jakubcic";
     const employee = new Engineer("Jakub", 1234, "email@email.com", username);
-    expect(employee.getGitHub()).toBe(username);
+    expect(employee.getGithub()).toBe(username);
   });
 });
