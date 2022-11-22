@@ -6,7 +6,7 @@
 
 - [Description](#description)
 - [Installation](#installation)
-    + [Prerequisites](#prerequsites)
+    + [Prerequisites](#prerequisites)
     + [How to install](#how-to-install)
 - [Usage](#usage)
 - [Tests](#tests)
