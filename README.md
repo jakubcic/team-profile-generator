@@ -17,6 +17,10 @@
 ## Description
 Team Profile Generator is a command line tool written in JavaScript using the **node.js** runtime. This tool will create a simple static site that serves as a profile for your team at work. It works by prompting you with serveral questions and then based on your inputs it will generate an `index.html` file inside the `/dist` directory. The tool will prompt you for a name, email, employee ID, and a special data point based on the role. The supported roles are Manager, Engineer, and Intern. Each data point will be displayed on the web page in a card for each employee.
 
+Here's a preview of the web page that this application will generate:
+<br>
+![sample image of application](./dist/sample-image.png)
+
 ## Installation
 ### Prerequisites
 You must have **node.js** installed to run this application. I highly recommend using [**nvm**](https://github.com/nvm-sh/nvm) (node version manager) to manage your node.js installation.
