@@ -37,9 +37,8 @@ Once you have everything installed, including the dependencies, you can run `nod
 
 Here's a video demo
 
-```
-placeholder
-```
+https://user-images.githubusercontent.com/39972418/203464249-8d0e98e8-f458-4e37-9a5f-c683b4617cfa.mp4
+
 
 ## Tests
 This application includes a suite of tests. To run these, please install the [jest](https://jestjs.io/) node package.
