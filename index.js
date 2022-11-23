@@ -24,7 +24,6 @@ const managerPrompt = async () => {
     response.officeNumber
   );
   teamArray.push(manager);
-  console.log(teamArray)
   addTeamMember();
 };
 
@@ -61,7 +60,6 @@ const engineerPrompt = async () => {
     response.github
   );
   teamArray.push(engineer);
-  console.log(teamArray)
   addTeamMember();
 };
 
@@ -76,7 +74,6 @@ const internPrompt = async () => {
     response.school
   );
   teamArray.push(intern);
-  console.log(teamArray)
   addTeamMember();
 };
 
